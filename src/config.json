@@ -1,0 +1,20 @@
+[
+    {
+        "productId": 1,
+        "productName": "Mobile",
+        "productImage": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "productPrice": 15000
+    },
+    {
+        "productId": 2,
+        "productName": "Laptop",
+        "productImage": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bGFwdG9wJTIwY29tcHV0ZXJ8ZW58MHx8MHx8&w=1000&q=80",
+        "productPrice": 50000
+    },
+    {
+        "productId": 3,
+        "productName": "Tab",
+        "productImage": "https://media.istockphoto.com/id/477596053/photo/samsung-galaxy-tab-3.jpg?s=612x612&w=0&k=20&c=3pQRcqxNy9Tn7M1QIi9Or5wkkdyBdcaobAofsp_xK28=",
+        "productPrice": 22500
+    }
+]
